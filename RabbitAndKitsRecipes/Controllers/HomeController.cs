@@ -27,6 +27,16 @@ namespace RabbitAndKitsRecipes.Controllers
         {
             return View();
         }
+        public IActionResult RecipeList()
+        {
+            var student=new StudentModel() 
+            { 
+                recipeName= "Pizza"
+            }
+            return View();
+        }
+
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
