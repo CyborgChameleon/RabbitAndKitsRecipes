@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Iris\\Documents\\GitHub\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes.csproj",
+      "projectUniqueName": "C:\\Users\\Iris\\OneDrive - Concordia University - Canada\\multiple device\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes.csproj",
       "projectName": "RabbitAndKitsRecipes",
-      "projectPath": "C:\\Users\\Iris\\Documents\\GitHub\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes.csproj",
+      "projectPath": "C:\\Users\\Iris\\OneDrive - Concordia University - Canada\\multiple device\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes.csproj",
       "packagesPath": "C:\\Users\\Iris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Iris\\Documents\\GitHub\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes\\obj\\",
+      "outputPath": "C:\\Users\\Iris\\OneDrive - Concordia University - Canada\\multiple device\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
