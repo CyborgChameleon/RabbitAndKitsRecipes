@@ -32,11 +32,11 @@ namespace RabbitAndKitsRecipes.Controllers
             var recipe = new RecipeModel()
             {
                 recipeName = "Pizza",
-                chef="Monkey"
+                chef = "Monkey"
 
 
             };
-            return View();
+            return View(recipe);
         }
 
 
