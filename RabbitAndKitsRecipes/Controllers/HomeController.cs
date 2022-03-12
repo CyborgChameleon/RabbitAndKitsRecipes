@@ -27,12 +27,15 @@ namespace RabbitAndKitsRecipes.Controllers
         {
             return View();
         }
-        public IActionResult RecipeList()
+        public IActionResult NewRecipe()
         {
-            var student=new StudentModel() 
-            { 
-                recipeName= "Pizza"
-            }
+            var student = new RecipeModel()
+            {
+                recipeName = "Pizza",
+                chef="Monkey"
+
+
+            };
             return View();
         }
 
