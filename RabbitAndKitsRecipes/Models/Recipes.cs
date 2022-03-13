@@ -11,13 +11,13 @@ namespace RabbitAndKitsRecipes.Models
 
 
 
-    public class Recipes
+    public class recipe
     {
         [Key]
         public int recipeID { get; set; }
 
         [Required]
-        [Display(Name ="Recipe")]
+        [Display(Name = "Recipe")]
         public string recipeName { get; set; }
 
         [Display(Name = "Chef")]
@@ -53,8 +53,11 @@ namespace RabbitAndKitsRecipes.Models
 
     }
 
-    public class ingredientList
+    public class ingredient
     {
+        [Key]
+        public int ingredientID { get; set; }
+
         [Display(Name = "Ingredient")]
         public string ingredientName { get; set; }
 
