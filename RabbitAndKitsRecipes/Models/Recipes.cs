@@ -19,21 +19,23 @@ namespace RabbitAndKitsRecipes.Models
         public string description { get; set; }
 
         //add the following
-        //  -description
         //  -ingredient
         //  -instructions
         //  -instructions with photo
 
         //in the following places
         //  -Recipes.cs
-        //  -HomeController.cs??? not sure if necessary-> if not delete that part
+        //  -HomeController.cs??? try deleting that part before testing
         //  -
 
 
         //TESTING ZONE
-        //A.Add controler with recipe model (install package if needed)
-        //B.add database via package manager console
-        //  1.enable-migrations
+				//A.install package microsoft.EntityFrameworkCore.Design
+        //B.Add controler with recipe model 
+				//		(however if they require you to add other package 
+				//		try skipping A to minimize the amount of package needed)
+        //C.add database via package manager console
+        //  1.enable-migrations->try skipping that part
         //  2.add-migration "initialsetup"
         //  3.update-database
         //
