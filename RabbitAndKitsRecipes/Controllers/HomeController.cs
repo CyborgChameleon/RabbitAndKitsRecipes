@@ -27,9 +27,9 @@ namespace RabbitAndKitsRecipes.Controllers
         {
             return View();
         }
-        //public IActionResult Recipe()
+        //public IActionResult newRecipe()
         //{
-        //    var recipe = new Recipes()
+        //    var recipe = new recipe()
         //    {
         //        recipeName = "Pizza",
         //        chef = "Monkey"
@@ -38,6 +38,7 @@ namespace RabbitAndKitsRecipes.Controllers
         //    };
         //    return View(recipe);
         //}
+        //test later by adding view for this
         //this was added during this tutorial https://www.youtube.com/watch?v=di2Iv1jvbJ0&ab_channel=MarkDRushton this
 
 
