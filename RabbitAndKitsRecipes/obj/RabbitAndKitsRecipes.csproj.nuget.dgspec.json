@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Iris\\OneDrive - Concordia University - Canada\\Multidevices\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes.csproj": {}
+    "C:\\Users\\Iris\\OneDrive - Concordia University - Canada\\Multidevices\\RabbitAndKitsRecipesClean\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Iris\\OneDrive - Concordia University - Canada\\Multidevices\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes.csproj": {
+    "C:\\Users\\Iris\\OneDrive - Concordia University - Canada\\Multidevices\\RabbitAndKitsRecipesClean\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Iris\\OneDrive - Concordia University - Canada\\Multidevices\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes.csproj",
+        "projectUniqueName": "C:\\Users\\Iris\\OneDrive - Concordia University - Canada\\Multidevices\\RabbitAndKitsRecipesClean\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes.csproj",
         "projectName": "RabbitAndKitsRecipes",
-        "projectPath": "C:\\Users\\Iris\\OneDrive - Concordia University - Canada\\Multidevices\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes.csproj",
+        "projectPath": "C:\\Users\\Iris\\OneDrive - Concordia University - Canada\\Multidevices\\RabbitAndKitsRecipesClean\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes.csproj",
         "packagesPath": "C:\\Users\\Iris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Iris\\OneDrive - Concordia University - Canada\\Multidevices\\RabbitAndKitsRecipes\\RabbitAndKitsRecipes\\obj\\",
+        "outputPath": "C:\\Users\\Iris\\OneDrive - Concordia University - Canada\\Multidevices\\RabbitAndKitsRecipesClean\\RabbitAndKitsRecipes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
