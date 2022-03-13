@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitAndKitsRecipes", "RabbitAndKitsRecipes.csproj", "{EB4FF935-7BCB-4B6F-B883-29C9C5156754}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitAndKitsRecipes", "RabbitAndKitsRecipes.csproj", "{8C485095-5A46-4085-B53F-68B8441DD4E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EB4FF935-7BCB-4B6F-B883-29C9C5156754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EB4FF935-7BCB-4B6F-B883-29C9C5156754}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EB4FF935-7BCB-4B6F-B883-29C9C5156754}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EB4FF935-7BCB-4B6F-B883-29C9C5156754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C485095-5A46-4085-B53F-68B8441DD4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C485095-5A46-4085-B53F-68B8441DD4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C485095-5A46-4085-B53F-68B8441DD4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C485095-5A46-4085-B53F-68B8441DD4E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F5A1A1AB-66A0-4CBC-A71A-2FBF8E797E5F}
+		SolutionGuid = {C62EC400-1D1E-41D2-A425-03BEDE980402}
 	EndGlobalSection
 EndGlobal

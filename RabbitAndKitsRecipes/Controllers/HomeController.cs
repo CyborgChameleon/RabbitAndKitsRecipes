@@ -27,6 +27,20 @@ namespace RabbitAndKitsRecipes.Controllers
         {
             return View();
         }
+        //public IActionResult Recipe()
+        //{
+        //    var recipe = new Recipes()
+        //    {
+        //        recipeName = "Pizza",
+        //        chef = "Monkey"
+
+
+        //    };
+        //    return View(recipe);
+        //}
+        //this was added during this tutorial https://www.youtube.com/watch?v=di2Iv1jvbJ0&ab_channel=MarkDRushton this
+
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
