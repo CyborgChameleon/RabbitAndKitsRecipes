@@ -48,8 +48,11 @@ namespace RabbitAndKitsRecipes.Models
         //C.add database via package manager console
         //  1.add-migration "initialsetup"
         //  2.update-database
-        //
 
+
+        //CURRENTLY FOLLOWING
+        //https://www.youtube.com/watch?v=di2Iv1jvbJ0&ab_channel=MarkDRushton
+        //https://www.youtube.com/watch?v=BfEjDD8mWYg&ab_channel=freeCodeCamp.org
 
     }
 
