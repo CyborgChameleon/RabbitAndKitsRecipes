@@ -27,9 +27,9 @@ namespace RabbitAndKitsRecipes.Controllers
         {
             return View();
         }
-        public IActionResult NewRecipe()
+        public IActionResult Recipe()
         {
-            var recipe = new RecipeModel()
+            var recipe = new Recipes()
             {
                 recipeName = "Pizza",
                 chef = "Monkey"
